@@ -4,11 +4,12 @@ The Bike Sales Analysis in Power BI provides a comprehensive visualization of sa
 
 ## Seven dimensional tables and one fact internal sales table were uploaded for this Bike sale analysis.
 ## Visualizations Used:
-Bar and line charts for sales trends.
-Map for Sales distribution by region, city, or country.
-Pie charts for products distribution.
-Taables for product sales in months.
-Slicers and filters for dynamic data exploration.
+ - Bar and line charts for sales trends.
+ - Map for Sales distribution by region, city, or country.
+ - Pie charts for products distribution.
+ - Tables for product sales in months.
+ - Slicers and filters for dynamic data exploration.
+   
 ![image](https://github.com/user-attachments/assets/97d4b9a5-a4bc-4854-bf39-c7f1a242f832)
 
 ## Conclusion
