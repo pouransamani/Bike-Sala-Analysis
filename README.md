@@ -1,8 +1,15 @@
 # Bike-Sala-Analysis
 The Bike Sales Analysis in Power BI provides a comprehensive visualization of sales performance, customer demographics, and product trends. This analysis typically includes interactive dashboards displaying key metrics such as total sales, revenue growth, customer segmentation, and regional distribution.
 
+## Key componnents were used to bulid the three dashboards
+ - Dimensional tables
+    - DimDate (Comparison of monthly or yearly sales trends)
+    - Customer Demographics(Analysis of customer profiles by age, gender, and income group)
+    - Product Analysis(Top-selling bike models, categories, and brands)
+    - Geographic Analysis(Sales distribution by region, city, or country)
+ - One fact internal sales containing the Sales Performance:
+   - Total revenue, units sold, and profit margins over time
 
-## Seven dimensional tables and one fact internal sales table were uploaded for this Bike sale analysis.
 ## Visualizations Used:
  - Bar and line charts for sales trends.
  - Map for Sales distribution by region, city, or country.
