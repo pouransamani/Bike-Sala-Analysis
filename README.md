@@ -16,6 +16,17 @@ The Bike Sales Analysis in Power BI provides a comprehensive visualization of sa
  - Pie charts for products distribution.
  - Tables for product sales in months.
  - Slicers and filters for dynamic data exploration.
+
+![image](https://github.com/user-attachments/assets/f0632023-6df1-4dba-9454-9d34a165c4cc)
+
+
+
+
+![image](https://github.com/user-attachments/assets/1a1d2fcf-cc39-402c-92ae-9eaba3dcff73)
+
+
+
+
    
 
 ![image](https://github.com/user-attachments/assets/791efbe5-389b-4295-b219-7b0996028b05)
